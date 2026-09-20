@@ -2,6 +2,9 @@
 
 تطبيق ويب متكامل لإدارة نادي التايكوندو باستخدام **React** و **Firebase** مع واجهة عربية كاملة.
 
+> **Status**: in development. Handles env config via `VITE_FIREBASE_*` (Vite) — see `.env.example`.
+> Firebase Security Rules are documented in this README; deploy them to your Firestore console before going live.
+
 ## ✨ المميزات الرئيسية
 
 ### 1. إدارة الطلاب 👥
